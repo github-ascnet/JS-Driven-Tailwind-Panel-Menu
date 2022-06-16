@@ -1,1 +1,465 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="478" height="416"><defs><rect id="a" width="350" height="346" rx="8"/><rect id="d" width="200" height="255" rx="8"/><filter id="c" width="117.5%" height="113.7%" x="-8.8%" y="-4.9%" filterUnits="objectBoundingBox"><feOffset dy="5" in="SourceAlpha" result="shadowOffsetOuter1"/><feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5"/><feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.285332669 0 0 0 0 0.363695184 0 0 0 0 0.811480978 0 0 0 0.0830692745 0"/></filter><filter id="e" width="139.5%" height="131%" x="-19.8%" y="-13.5%" filterUnits="objectBoundingBox"><feOffset dy="5" in="SourceAlpha" result="shadowOffsetOuter1"/><feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5"/><feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0.285332669 0 0 0 0 0.363695184 0 0 0 0 0.811480978 0 0 0 0.0830692745 0"/><feMerge><feMergeNode in="shadowMatrixOuter1"/><feMergeNode in="SourceGraphic"/></feMerge></filter><rect id="g" width="200" height="255" rx="8"/><filter id="f" width="117.5%" height="113.7%" x="-8.8%" y="-4.9%" filterUnits="objectBoundingBox"><feOffset dy="5" in="SourceAlpha" result="shadowOffsetOuter1"/><feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5"/><feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.285332669 0 0 0 0 0.363695184 0 0 0 0 0.811480978 0 0 0 0.0830692745 0"/></filter></defs><g fill="none" fill-rule="evenodd"><mask id="b" fill="#fff"><use xlink:href="#a"/></mask><use fill="#E8EAF6" fill-rule="nonzero" xlink:href="#a"/><g mask="url(#b)"><path fill="#242A45" d="M-3.53.197h547v59h-547z"/><g transform="translate(22.47 14.197)" fill="#FFF"><circle cx="16" cy="16" r="16" opacity=".245"/><g transform="translate(47 6)"><rect width="120" height="6" opacity=".75" rx="3"/><rect width="64" height="6" y="14" opacity=".25" rx="3"/></g></g></g><g transform="translate(27 138)"><use fill="#000" filter="url(#c)" xlink:href="#d"/><use fill="#FFF" xlink:href="#d"/><g transform="translate(23 29)"><rect width="101.317" height="6" x="45.683" y="6" fill="#242A45" opacity=".5" rx="3"/><circle cx="16" cy="16" r="16" fill="#5267DF"/><rect width="54.036" height="6" x="45.683" y="20" fill="#242A45" opacity=".25" rx="3"/><g transform="translate(0 56)"><circle cx="16" cy="16" r="16" fill="#5267DF"/><rect width="101.317" height="6" x="45.683" y="6" fill="#242A45" opacity=".5" rx="3"/><rect width="54.036" height="6" x="45.683" y="20" fill="#242A45" opacity=".25" rx="3"/></g><g transform="translate(0 112)"><circle cx="16" cy="16" r="16" fill="#5267DF"/><rect width="101.317" height="6" x="45.683" y="6" fill="#242A45" opacity=".5" rx="3"/><rect width="54.036" height="6" x="45.683" y="20" fill="#242A45" opacity=".25" rx="3"/></g><g transform="translate(0 168)"><circle cx="16" cy="16" r="16" fill="#5267DF"/><rect width="101.317" height="6" x="45.683" y="6" fill="#242A45" opacity=".5" rx="3"/><rect width="54.036" height="6" x="45.683" y="20" fill="#242A45" opacity=".25" rx="3"/></g></g></g><g filter="url(#e)" transform="translate(251 138)"><use fill="#000" filter="url(#f)" xlink:href="#g"/><use fill="#FFF" xlink:href="#g"/><g transform="translate(23 29)"><rect width="101.317" height="6" x="45.683" y="6" fill="#242A45" opacity=".5" rx="3"/><circle cx="16" cy="16" r="16" fill="#5267DF"/><rect width="54.036" height="6" x="45.683" y="20" fill="#242A45" opacity=".25" rx="3"/><g transform="translate(0 56)"><circle cx="16" cy="16" r="16" fill="#FA5959"/><rect width="101.317" height="6" x="45.683" y="6" fill="#242A45" opacity=".5" rx="3"/><rect width="54.036" height="6" x="45.683" y="20" fill="#242A45" opacity=".25" rx="3"/></g><g transform="translate(0 112)"><circle cx="16" cy="16" r="16" fill="#5267DF"/><rect width="101.317" height="6" x="45.683" y="6" fill="#242A45" opacity=".5" rx="3"/><rect width="54.036" height="6" x="45.683" y="20" fill="#242A45" opacity=".25" rx="3"/></g><g transform="translate(0 168)"><circle cx="16" cy="16" r="16" fill="#5267DF"/><rect width="101.317" height="6" x="45.683" y="6" fill="#242A45" opacity=".5" rx="3"/><rect width="54.036" height="6" x="45.683" y="20" fill="#242A45" opacity=".25" rx="3"/></g></g></g><rect width="237" height="34" x="27" y="85" fill="#FFF" rx="8"/><g stroke="#5267DF" stroke-width="20" transform="translate(305 102)"><circle cx="67" cy="67" r="67" fill="#495DCF" fill-opacity=".2"/><path stroke-linecap="round" stroke-linejoin="round" d="M114 115l49 49"/></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="478"
+   height="416"
+   version="1.1"
+   id="svg1435"
+   sodipodi:docname="illustration-features-tab-2.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1437"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.9783654"
+     inkscape:cx="238.83354"
+     inkscape:cy="208.25273"
+     inkscape:window-width="3840"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1435" />
+  <defs
+     id="defs1328">
+    <rect
+       id="a"
+       width="350"
+       height="346"
+       rx="8" />
+    <rect
+       id="d"
+       width="200"
+       height="255"
+       rx="8" />
+    <filter
+       id="c"
+       width="1.12"
+       height="1.1137255"
+       x="-0.06"
+       y="-0.047058824"
+       filterUnits="objectBoundingBox">
+      <feOffset
+         dy="5"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset1300" />
+      <feGaussianBlur
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         stdDeviation="5"
+         id="feGaussianBlur1302" />
+      <feColorMatrix
+         in="shadowBlurOuter1"
+         values="0 0 0 0 0.285332669 0 0 0 0 0.363695184 0 0 0 0 0.811480978 0 0 0 0.0830692745 0"
+         id="feColorMatrix1304" />
+    </filter>
+    <filter
+       id="e"
+       width="1.24"
+       height="1.227451"
+       x="-0.12"
+       y="-0.094117648"
+       filterUnits="objectBoundingBox">
+      <feOffset
+         dy="5"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset1307" />
+      <feGaussianBlur
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         stdDeviation="5"
+         id="feGaussianBlur1309" />
+      <feColorMatrix
+         in="shadowBlurOuter1"
+         result="shadowMatrixOuter1"
+         values="0 0 0 0 0.285332669 0 0 0 0 0.363695184 0 0 0 0 0.811480978 0 0 0 0.0830692745 0"
+         id="feColorMatrix1311" />
+      <feMerge
+         id="feMerge1317">
+        <feMergeNode
+           in="shadowMatrixOuter1"
+           id="feMergeNode1313" />
+        <feMergeNode
+           in="SourceGraphic"
+           id="feMergeNode1315" />
+      </feMerge>
+    </filter>
+    <rect
+       id="g"
+       width="200"
+       height="255"
+       rx="8" />
+    <filter
+       id="f"
+       width="1.12"
+       height="1.1137255"
+       x="-0.06"
+       y="-0.047058824"
+       filterUnits="objectBoundingBox">
+      <feOffset
+         dy="5"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset1321" />
+      <feGaussianBlur
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         stdDeviation="5"
+         id="feGaussianBlur1323" />
+      <feColorMatrix
+         in="shadowBlurOuter1"
+         values="0 0 0 0 0.285332669 0 0 0 0 0.363695184 0 0 0 0 0.811480978 0 0 0 0.0830692745 0"
+         id="feColorMatrix1325" />
+    </filter>
+  </defs>
+  <g
+     fill="none"
+     fill-rule="evenodd"
+     id="g1433">
+    <mask
+       id="b"
+       fill="#fff">
+      <use
+         xlink:href="#a"
+         id="use1330" />
+    </mask>
+    <use
+       fill="#E8EAF6"
+       fill-rule="nonzero"
+       xlink:href="#a"
+       id="use1333" />
+    <g
+       mask="url(#b)"
+       id="g1347">
+      <path
+         fill="#242A45"
+         d="M-3.53.197h547v59h-547z"
+         id="path1335"
+         style="fill:#877cab;fill-opacity:1" />
+      <g
+         transform="translate(22.47 14.197)"
+         fill="#FFF"
+         id="g1345">
+        <circle
+           cx="16"
+           cy="16"
+           r="16"
+           opacity=".245"
+           id="circle1337" />
+        <g
+           transform="translate(47 6)"
+           id="g1343">
+          <rect
+             width="120"
+             height="6"
+             opacity=".75"
+             rx="3"
+             id="rect1339" />
+          <rect
+             width="64"
+             height="6"
+             y="14"
+             opacity=".25"
+             rx="3"
+             id="rect1341" />
+        </g>
+      </g>
+    </g>
+    <g
+       transform="translate(27 138)"
+       id="g1385">
+      <use
+         fill="#000"
+         filter="url(#c)"
+         xlink:href="#d"
+         id="use1349" />
+      <use
+         fill="#FFF"
+         xlink:href="#d"
+         id="use1351" />
+      <g
+         transform="translate(23 29)"
+         id="g1383">
+        <rect
+           width="101.317"
+           height="6"
+           x="45.683"
+           y="6"
+           fill="#242A45"
+           opacity=".5"
+           rx="3"
+           id="rect1353" />
+        <circle
+           cx="16"
+           cy="16"
+           r="16"
+           fill="#5267DF"
+           id="circle1355"
+           style="fill:#877cab;fill-opacity:0.89803922" />
+        <rect
+           width="54.036"
+           height="6"
+           x="45.683"
+           y="20"
+           fill="#242A45"
+           opacity=".25"
+           rx="3"
+           id="rect1357" />
+        <g
+           transform="translate(0 56)"
+           id="g1365">
+          <circle
+             cx="16"
+             cy="16"
+             r="16"
+             fill="#5267DF"
+             id="circle1359"
+             style="fill:#877cab;fill-opacity:0.89803922" />
+          <rect
+             width="101.317"
+             height="6"
+             x="45.683"
+             y="6"
+             fill="#242A45"
+             opacity=".5"
+             rx="3"
+             id="rect1361" />
+          <rect
+             width="54.036"
+             height="6"
+             x="45.683"
+             y="20"
+             fill="#242A45"
+             opacity=".25"
+             rx="3"
+             id="rect1363" />
+        </g>
+        <g
+           transform="translate(0 112)"
+           id="g1373">
+          <circle
+             cx="16"
+             cy="16"
+             r="16"
+             fill="#5267DF"
+             id="circle1367"
+             style="fill:#877cab;fill-opacity:0.89803922" />
+          <rect
+             width="101.317"
+             height="6"
+             x="45.683"
+             y="6"
+             fill="#242A45"
+             opacity=".5"
+             rx="3"
+             id="rect1369" />
+          <rect
+             width="54.036"
+             height="6"
+             x="45.683"
+             y="20"
+             fill="#242A45"
+             opacity=".25"
+             rx="3"
+             id="rect1371" />
+        </g>
+        <g
+           transform="translate(0 168)"
+           id="g1381">
+          <circle
+             cx="16"
+             cy="16"
+             r="16"
+             fill="#5267DF"
+             id="circle1375"
+             style="fill:#877cab;fill-opacity:0.89803922" />
+          <rect
+             width="101.317"
+             height="6"
+             x="45.683"
+             y="6"
+             fill="#242A45"
+             opacity=".5"
+             rx="3"
+             id="rect1377" />
+          <rect
+             width="54.036"
+             height="6"
+             x="45.683"
+             y="20"
+             fill="#242A45"
+             opacity=".25"
+             rx="3"
+             id="rect1379" />
+        </g>
+      </g>
+    </g>
+    <g
+       filter="url(#e)"
+       transform="translate(251 138)"
+       id="g1423">
+      <use
+         fill="#000"
+         filter="url(#f)"
+         xlink:href="#g"
+         id="use1387" />
+      <use
+         fill="#FFF"
+         xlink:href="#g"
+         id="use1389" />
+      <g
+         transform="translate(23 29)"
+         id="g1421">
+        <rect
+           width="101.317"
+           height="6"
+           x="45.683"
+           y="6"
+           fill="#242A45"
+           opacity=".5"
+           rx="3"
+           id="rect1391" />
+        <circle
+           cx="16"
+           cy="16"
+           r="16"
+           fill="#5267DF"
+           id="circle1393"
+           style="fill:#877cab;fill-opacity:0.89803922" />
+        <rect
+           width="54.036"
+           height="6"
+           x="45.683"
+           y="20"
+           fill="#242A45"
+           opacity=".25"
+           rx="3"
+           id="rect1395" />
+        <g
+           transform="translate(0 56)"
+           id="g1403">
+          <circle
+             cx="16"
+             cy="16"
+             r="16"
+             fill="#FA5959"
+             id="circle1397" />
+          <rect
+             width="101.317"
+             height="6"
+             x="45.683"
+             y="6"
+             fill="#242A45"
+             opacity=".5"
+             rx="3"
+             id="rect1399" />
+          <rect
+             width="54.036"
+             height="6"
+             x="45.683"
+             y="20"
+             fill="#242A45"
+             opacity=".25"
+             rx="3"
+             id="rect1401" />
+        </g>
+        <g
+           transform="translate(0 112)"
+           id="g1411">
+          <circle
+             cx="16"
+             cy="16"
+             r="16"
+             fill="#5267DF"
+             id="circle1405"
+             style="fill:#877cab;fill-opacity:0.89803922" />
+          <rect
+             width="101.317"
+             height="6"
+             x="45.683"
+             y="6"
+             fill="#242A45"
+             opacity=".5"
+             rx="3"
+             id="rect1407" />
+          <rect
+             width="54.036"
+             height="6"
+             x="45.683"
+             y="20"
+             fill="#242A45"
+             opacity=".25"
+             rx="3"
+             id="rect1409" />
+        </g>
+        <g
+           transform="translate(0 168)"
+           id="g1419">
+          <circle
+             cx="16"
+             cy="16"
+             r="16"
+             fill="#5267DF"
+             id="circle1413"
+             style="fill:#877cab;fill-opacity:0.89803922" />
+          <rect
+             width="101.317"
+             height="6"
+             x="45.683"
+             y="6"
+             fill="#242A45"
+             opacity=".5"
+             rx="3"
+             id="rect1415" />
+          <rect
+             width="54.036"
+             height="6"
+             x="45.683"
+             y="20"
+             fill="#242A45"
+             opacity=".25"
+             rx="3"
+             id="rect1417" />
+        </g>
+      </g>
+    </g>
+    <rect
+       width="237"
+       height="34"
+       x="27"
+       y="85"
+       fill="#FFF"
+       rx="8"
+       id="rect1425" />
+    <g
+       stroke="#5267DF"
+       stroke-width="20"
+       transform="translate(305 102)"
+       id="g1431">
+      <circle
+         cx="67"
+         cy="67"
+         r="67"
+         fill="#495DCF"
+         fill-opacity=".2"
+         id="circle1427"
+         style="fill:#877cab;fill-opacity:0.89803922" />
+      <path
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         d="M114 115l49 49"
+         id="path1429" />
+    </g>
+  </g>
+</svg>

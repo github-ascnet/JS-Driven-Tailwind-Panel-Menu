@@ -1,1 +1,295 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="536" height="346"><defs><rect id="a" width="536" height="346" rx="8"/></defs><g fill="none" fill-rule="evenodd"><mask id="b" fill="#fff"><use xlink:href="#a"/></mask><use fill="#E8EAF6" fill-rule="nonzero" xlink:href="#a"/><g mask="url(#b)"><path fill="#242A45" d="M-3.53.197h547v59h-547z"/><g transform="translate(22.47 14.197)" fill="#FFF"><circle cx="16" cy="16" r="16" opacity=".245"/><circle cx="477" cy="16" r="16" opacity=".104"/><g transform="translate(47 6)"><rect width="120" height="6" opacity=".75" rx="3"/><rect width="64" height="6" y="14" opacity=".25" rx="3"/></g></g></g><g mask="url(#b)"><g transform="translate(57 93)"><rect width="261" height="316" fill="#FFF" rx="8"/><rect width="128" height="316" x="295" fill="#FFF" rx="8"/><rect width="120" height="6" x="78.47" y="38.197" fill="#242A45" opacity=".5" rx="3"/></g></g><g transform="translate(88.47 115.197)"><circle cx="16" cy="26" r="16" fill="#F98E5D"/><rect width="88" height="6" x="284" fill="#242A45" opacity=".25" rx="3"/><rect width="88" height="6" x="284" y="20" fill="#242A45" opacity=".25" rx="3"/><rect width="88" height="6" x="284" y="40" fill="#242A45" opacity=".25" rx="3"/><rect width="88" height="6" x="284" y="60" fill="#242A45" opacity=".25" rx="3"/><rect width="88" height="6" x="284" y="94" fill="#242A45" opacity=".25" rx="3"/><rect width="88" height="6" x="284" y="114" fill="#242A45" opacity=".25" rx="3"/><rect width="88" height="6" x="284" y="134" fill="#242A45" opacity=".25" rx="3"/><rect width="64" height="6" x="47" y="30" fill="#242A45" opacity=".25" rx="3"/></g><g transform="translate(88.47 181.197)"><circle cx="16" cy="16" r="16" fill="#6AC6D6"/><rect width="120" height="6" x="47" y="6" fill="#242A45" opacity=".5" rx="3"/><rect width="64" height="6" x="47" y="20" fill="#242A45" opacity=".25" rx="3"/></g><g transform="translate(88.47 237.197)"><circle cx="16" cy="16" r="16" fill="#A47ED4"/><rect width="120" height="6" x="47" y="6" fill="#242A45" opacity=".5" rx="3"/><rect width="64" height="6" x="47" y="20" fill="#242A45" opacity=".25" rx="3"/></g><g transform="translate(88.47 293.197)"><circle cx="16" cy="16" r="16" fill="#EC7878"/><rect width="120" height="6" x="47" y="6" fill="#242A45" opacity=".5" rx="3"/><rect width="64" height="6" x="47" y="20" fill="#242A45" opacity=".25" rx="3"/></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="536"
+   height="346"
+   version="1.1"
+   id="svg82"
+   sodipodi:docname="illustration-features-tab-1.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview84"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.9738806"
+     inkscape:cx="268.25331"
+     inkscape:cy="172.75614"
+     inkscape:window-width="3840"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg82" />
+  <defs
+     id="defs3">
+    <rect
+       id="a"
+       width="536"
+       height="346"
+       rx="8" />
+  </defs>
+  <g
+     fill="none"
+     fill-rule="evenodd"
+     id="g80">
+    <mask
+       id="b"
+       fill="#fff">
+      <use
+         xlink:href="#a"
+         id="use5" />
+    </mask>
+    <use
+       fill="#E8EAF6"
+       fill-rule="nonzero"
+       xlink:href="#a"
+       id="use8" />
+    <g
+       mask="url(#b)"
+       id="g24">
+      <path
+         fill="#242A45"
+         d="M-3.53.197h547v59h-547z"
+         id="path10"
+         style="fill:#877cab;fill-opacity:1" />
+      <g
+         transform="translate(22.47 14.197)"
+         fill="#FFF"
+         id="g22">
+        <circle
+           cx="16"
+           cy="16"
+           r="16"
+           opacity=".245"
+           id="circle12" />
+        <circle
+           cx="477"
+           cy="16"
+           r="16"
+           opacity=".104"
+           id="circle14" />
+        <g
+           transform="translate(47 6)"
+           id="g20">
+          <rect
+             width="120"
+             height="6"
+             opacity=".75"
+             rx="3"
+             id="rect16" />
+          <rect
+             width="64"
+             height="6"
+             y="14"
+             opacity=".25"
+             rx="3"
+             id="rect18" />
+        </g>
+      </g>
+    </g>
+    <g
+       mask="url(#b)"
+       id="g34">
+      <g
+         transform="translate(57 93)"
+         id="g32">
+        <rect
+           width="261"
+           height="316"
+           fill="#FFF"
+           rx="8"
+           id="rect26" />
+        <rect
+           width="128"
+           height="316"
+           x="295"
+           fill="#FFF"
+           rx="8"
+           id="rect28" />
+        <rect
+           width="120"
+           height="6"
+           x="78.47"
+           y="38.197"
+           fill="#242A45"
+           opacity=".5"
+           rx="3"
+           id="rect30" />
+      </g>
+    </g>
+    <g
+       transform="translate(88.47 115.197)"
+       id="g54">
+      <circle
+         cx="16"
+         cy="26"
+         r="16"
+         fill="#F98E5D"
+         id="circle36" />
+      <rect
+         width="88"
+         height="6"
+         x="284"
+         fill="#242A45"
+         opacity=".25"
+         rx="3"
+         id="rect38" />
+      <rect
+         width="88"
+         height="6"
+         x="284"
+         y="20"
+         fill="#242A45"
+         opacity=".25"
+         rx="3"
+         id="rect40" />
+      <rect
+         width="88"
+         height="6"
+         x="284"
+         y="40"
+         fill="#242A45"
+         opacity=".25"
+         rx="3"
+         id="rect42" />
+      <rect
+         width="88"
+         height="6"
+         x="284"
+         y="60"
+         fill="#242A45"
+         opacity=".25"
+         rx="3"
+         id="rect44" />
+      <rect
+         width="88"
+         height="6"
+         x="284"
+         y="94"
+         fill="#242A45"
+         opacity=".25"
+         rx="3"
+         id="rect46" />
+      <rect
+         width="88"
+         height="6"
+         x="284"
+         y="114"
+         fill="#242A45"
+         opacity=".25"
+         rx="3"
+         id="rect48" />
+      <rect
+         width="88"
+         height="6"
+         x="284"
+         y="134"
+         fill="#242A45"
+         opacity=".25"
+         rx="3"
+         id="rect50" />
+      <rect
+         width="64"
+         height="6"
+         x="47"
+         y="30"
+         fill="#242A45"
+         opacity=".25"
+         rx="3"
+         id="rect52" />
+    </g>
+    <g
+       transform="translate(88.47 181.197)"
+       id="g62">
+      <circle
+         cx="16"
+         cy="16"
+         r="16"
+         fill="#6AC6D6"
+         id="circle56" />
+      <rect
+         width="120"
+         height="6"
+         x="47"
+         y="6"
+         fill="#242A45"
+         opacity=".5"
+         rx="3"
+         id="rect58" />
+      <rect
+         width="64"
+         height="6"
+         x="47"
+         y="20"
+         fill="#242A45"
+         opacity=".25"
+         rx="3"
+         id="rect60" />
+    </g>
+    <g
+       transform="translate(88.47 237.197)"
+       id="g70">
+      <circle
+         cx="16"
+         cy="16"
+         r="16"
+         fill="#A47ED4"
+         id="circle64" />
+      <rect
+         width="120"
+         height="6"
+         x="47"
+         y="6"
+         fill="#242A45"
+         opacity=".5"
+         rx="3"
+         id="rect66" />
+      <rect
+         width="64"
+         height="6"
+         x="47"
+         y="20"
+         fill="#242A45"
+         opacity=".25"
+         rx="3"
+         id="rect68" />
+    </g>
+    <g
+       transform="translate(88.47 293.197)"
+       id="g78">
+      <circle
+         cx="16"
+         cy="16"
+         r="16"
+         fill="#EC7878"
+         id="circle72" />
+      <rect
+         width="120"
+         height="6"
+         x="47"
+         y="6"
+         fill="#242A45"
+         opacity=".5"
+         rx="3"
+         id="rect74" />
+      <rect
+         width="64"
+         height="6"
+         x="47"
+         y="20"
+         fill="#242A45"
+         opacity=".25"
+         rx="3"
+         id="rect76" />
+    </g>
+  </g>
+</svg>
